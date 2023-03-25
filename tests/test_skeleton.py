@@ -1,6 +1,6 @@
 import pytest
 
-from aitest.skeleton import fib, main
+from aitest.aiskel import fib, main
 
 __author__ = "Max Busboom"
 __copyright__ = "Max Busboom"
